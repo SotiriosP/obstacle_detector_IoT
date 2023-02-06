@@ -16,6 +16,7 @@ Last but not least, the wearable system is equipped with a Light Intensity Detec
 
 -- --
 For the proposed system, the components used are the following:
+
 •	Arduino MKR1000 board (client)
 •	Arduino MKR1000 board (server)
 •	2Ultrasonic sensors
