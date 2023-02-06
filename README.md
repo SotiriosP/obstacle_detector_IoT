@@ -1,5 +1,5 @@
 # obstacle_detector_IoT
-Obstacle detector and warning system for the visually impaired
+**Obstacle detector and warning system for the visually impaired**
 
 -- --
 The system consists of an Arduino MKR1000 device serving as the client and an Arduino MKR1000 device acting like a server. The first board is part of a wearable technology attached to a knee or a wrist band. This wearable technology is equipped with two ultrasonic sensors and two corresponding vibration motor modules.
@@ -17,18 +17,30 @@ Last but not least, the wearable system is equipped with a Light Intensity Detec
 -- --
 For the proposed system, the components used are the following:
 
->   Arduino MKR1000 board (client)
->   Arduino MKR1000 board (server)
->   2 Ultrasonic sensors
->	  2 Vibration motors
->	  1 Accelerometer
->	  1 Push button
->	  1 Light sensor
->	  1 Led light
->	  1 Mobile device
->	  Jumper wires
->	  Resistors
->	  Breadboard
+Arduino MKR1000 board (client)
+
+Arduino MKR1000 board (server)
+
+2 Ultrasonic sensors
+
+2 Vibration motors
+
+1 Accelerometer
+
+1 Push button
+
+1 Light sensor
+
+1 Led light
+
+1 Mobile device
+
+Jumper wires
+
+Resistors
+
+Breadboard
+
 
 More specifically, the detailed system architecture consists of:
 
