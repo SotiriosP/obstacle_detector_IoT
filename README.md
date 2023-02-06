@@ -41,7 +41,7 @@ Resistors
 
 Breadboard
 
-
+-- --
 More specifically, the detailed system architecture consists of:
 
 1.	MKR1000 client device: This device runs the main program and is responsible for connecting to the Wi-Fi network, collecting data from sensors connected to it, such as the MPU6050 sensor and ultrasonic sensors, analyzing the data to detect a fall and sending GET requests to the server device.
