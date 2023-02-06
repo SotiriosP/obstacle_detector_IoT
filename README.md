@@ -17,18 +17,18 @@ Last but not least, the wearable system is equipped with a Light Intensity Detec
 -- --
 For the proposed system, the components used are the following:
 
-•	Arduino MKR1000 board (client)
-•	Arduino MKR1000 board (server)
-•	2Ultrasonic sensors
-•	2 Vibration motors
-•	1 Accelerometer
-•	1 Push button
-•	1 Light sensor
-•	1 Led light
-•	1 Mobile device
-•	Jumper wires
-•	Resistors
-•	Breadboard
+1.  Arduino MKR1000 board (client)
+2.  Arduino MKR1000 board (server)
+3. 	2 Ultrasonic sensors
+4.	2 Vibration motors
+5.	1 Accelerometer
+6.	1 Push button
+7.	1 Light sensor
+8.	1 Led light
+9.	1 Mobile device
+10.	Jumper wires
+11.	Resistors
+12.	Breadboard
 
 More specifically, the detailed system architecture consists of:
 1.	MKR1000 client device: This device runs the main program and is responsible for connecting to the Wi-Fi network, collecting data from sensors connected to it, such as the MPU6050 sensor and ultrasonic sensors, analyzing the data to detect a fall and sending GET requests to the server device.
