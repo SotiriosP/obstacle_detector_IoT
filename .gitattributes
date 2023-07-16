@@ -1,2 +1,3 @@
 # Tools/languages
-*.ino linguist-language=C++, Arduino
+*.ino linguist-language=C++
+*.ino linguist-language=Arduino
